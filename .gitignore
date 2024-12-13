@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+venv/
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+*.sublime-workspace
+
+# Python caches and packages
+__pycache__/
+*.py[cod]
+
+# Build files
+dist/
+build/
+
+# Environment files
+.env

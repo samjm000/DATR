@@ -1,0 +1,1332 @@
+[
+  {
+    "racecardName": "Doncaster Racecards",
+    "races": [
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1155",
+        "title": "11:55 - bet365 Novices' Hurdle (GBB Race)",
+        "details": "(Class 3) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1155/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1225",
+        "title": "12:25 - bet365 Novices' Limited Handicap Chase (GBB Race)",
+        "details": "(Class 3) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1225/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1255",
+        "title": "12:55 - Never Ordinary At bet365 Handicap Chase",
+        "details": "(Class 4) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1255/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1330",
+        "title": "13:30 - Bet Boost At bet365 Handicap Hurdle",
+        "details": "(Class 4) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1330/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1405",
+        "title": "14:05 - bet365 Handicap Chase (GBB Race)",
+        "details": "(Class 2) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1405/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1440",
+        "title": "14:40 - bet365 Doncaster Mares' Hurdle (Listed) (GBB Race)",
+        "details": "(Class 1) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1440/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1515",
+        "title": "15:15 - bet365 Handicap Hurdle (GBB Race)",
+        "details": "(Class 2) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Doncaster/14-December-2024/1515/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1142",
+        "title": "11:42 - Hawk Ponteland Now Open Conditional Jockeys' Handicap Hurdle",
+        "details": "(Class 5) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1142/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1217",
+        "title": "12:17 - Hawkstone Stout Available At The Hawk Novices' Hurdle (GBB Race)",
+        "details": "(Class 4) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1217/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1247",
+        "title": "12:47 - Dan Stutt Memorial Maiden Hurdle (GBB Race)",
+        "details": "(Class 4) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1247/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1322",
+        "title": "13:22 - ACS Tyres Services Handicap Chase",
+        "details": "(Class 4) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1322/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1357",
+        "title": "13:57 - K Ord Paving & Groundworks Handicap Hurdle",
+        "details": "(Class 5) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1357/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1432",
+        "title": "14:32 - Happy Birthday Lyndsey Lane From Brunel Novices' Handicap Chase",
+        "details": "(Class 5) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1432/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1508",
+        "title": "15:08 - Watch Unbridled On attheraces.com Open NH Flat Race (GBB Race)",
+        "details": "(Class 5) (4YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Newcastle/14-December-2024/1508/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1545",
+        "title": "15:45 - Boost Your Acca At BetMGM EBF Novice Stakes (GBB Race) (Div 1)",
+        "details": "(Class 5) (2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1545/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1615",
+        "title": "16:15 - Boost Your Acca At BetMGM EBF Novice Stakes (GBB Race) (Div 2)",
+        "details": "(Class 5) (2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1615/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1645",
+        "title": "16:45 - Gamble Responsibly At BetMGM Handicap",
+        "details": "(Class 4) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1645/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1715",
+        "title": "17:15 - Weekly Free Bets With BetMGM Extra Nursery",
+        "details": "(Class 5) (2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1715/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1745",
+        "title": "17:45 - Extra Winnings With BetUK Acca Club Conditions Stakes (GBB Race)",
+        "details": "(Class 2) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1745/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1815",
+        "title": "18:15 - Weekly 5 Free Bet With BetUK Handicap",
+        "details": "(Class 6) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1815/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1845",
+        "title": "18:45 - Weekly Free Bets With BetMGM Extra Handicap",
+        "details": "(Class 3) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1845/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1915",
+        "title": "19:15 - Free Bets With BetUK Bet Club Handicap",
+        "details": "(Class 3) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1915/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1945",
+        "title": "19:45 - Weekly 5 Free Bet With BetUK 'Hands And Heels' Apprentice Handicap",
+        "details": "(Class 6) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Southwell/14-December-2024/1945/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1630",
+        "title": "16:30 - Boost Your Acca At BetMGM Fillies' Handicap",
+        "details": "(Class 5) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1630/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1700",
+        "title": "17:00 - Win 1M With Bet MGM's Golden Goals 'Confined' Restricted Maiden Fillies' Stakes (GBB Race)",
+        "details": "(Class 5) (2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1700/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1730",
+        "title": "17:30 - BetMGM: It's Showtime Novice 'Confined' Restricted Novice Stakes (GBB Race)",
+        "details": "(Class 5) (2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1730/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1800",
+        "title": "18:00 - Extra Winnings With BetUK Acca Club Handicap",
+        "details": "(Class 4) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1800/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1830",
+        "title": "18:30 - Gamble Responsibly At BetMGM Fillies' Handicap",
+        "details": "(Class 5) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1830/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1900",
+        "title": "19:00 - Weekly 5 Free Bet With BetUK Handicap",
+        "details": "(Class 5) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1900/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1930",
+        "title": "19:30 - Weekly Free Bets With BetMGM Extra Handicap (Div 1)",
+        "details": "(Class 6) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/1930/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/2000",
+        "title": "20:00 - Weekly Free Bets With BetMGM Extra Handicap (Div 2)",
+        "details": "(Class 6) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/2000/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/2030",
+        "title": "20:30 - Gamble Responsibly At BetUK Handicap",
+        "details": "(Class 6) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Wolverhampton/14-December-2024/2030/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1210",
+        "title": "12:10 - JCB Triumph Trial Juvenile Hurdle (GBB Race)",
+        "details": "(Class 2) (3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1210/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1240",
+        "title": "12:40 - Josh Wyke Birthday Novices' Limited Handicap Chase (GBB Race)",
+        "details": "(Class 3) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1240/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1313",
+        "title": "13:13 - Quintessentially Mares' Handicap Chase",
+        "details": "(Class 3) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1313/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1350",
+        "title": "13:50 - Nyetimber December Gold Cup Handicap Chase (Premier Handicap) (GBB Race)",
+        "details": "(Class 1) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1350/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1425",
+        "title": "14:25 - BetMGM Handicap Chase (GBB Race)",
+        "details": "(Class 2) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1425/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1500",
+        "title": "15:00 - Albert Bartlett Novices' Hurdle (Registered As The Bristol Novices' Hurdle) (Grade 2) (GBB Race)",
+        "details": "(Class 1) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1500/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1535",
+        "title": "15:35 - BetMGM Mares' Handicap Hurdle (GBB Race)",
+        "details": "(Class 2) (4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cheltenham/14-December-2024/1535/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      }
+    ]
+  },
+  {
+    "racecardName": "Fairyhouse (IRE) Racecards",
+    "races": [
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1130",
+        "title": "11:30 - Irish Stallion Farms EBF Beginners Chase",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1130/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1200",
+        "title": "12:00 - McInerney Properties Rated Novice Chase",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1200/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1230",
+        "title": "12:30 - Sign Up To GavinLynchRacing.com 3-Y-O Maiden Hurdle",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1230/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1302",
+        "title": "13:02 - Tote Always SP Or Better At Fairyhouse Novice Handicap Hurdle (80-109)",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1302/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1337",
+        "title": "13:37 - Lacey's Plumbing & Heating Supplies Maiden Hurdle",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1337/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1412",
+        "title": "14:12 - Fairyhouse, Racecourse Of The Year 2024 Handicap Hurdle (80-102) (Div 1)",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1412/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1447",
+        "title": "14:47 - Fairyhouse, Racecourse Of The Year 2024 Handicap Hurdle (80-102) (Div 2)",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1447/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1522",
+        "title": "15:22 - Irish Stallion Farms EBF 4-Y-O Fillies Flat Race",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fairyhouse/14-December-2024/1522/plustimeform",
+        "title": "Race title not available",
+        "details": "Details not available"
+      }
+    ]
+  },
+  {
+    "racecardName": "Cagnes-Sur-Mer (France) Racecards",
+    "races": [
+      {
+        "link": "https://www.attheraces.com/racecard/Cagnes-Sur-Mer/14-December-2024/1745",
+        "title": "17:45 - Prix Varenne - Attele",
+        "details": "(7YO to 10YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cagnes-Sur-Mer/14-December-2024/1818",
+        "title": "18:18 - Prix Florestan - Attele",
+        "details": "(6YO to 8YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cagnes-Sur-Mer/14-December-2024/1850",
+        "title": "18:50 - Prix Fortunato II - Attele",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cagnes-Sur-Mer/14-December-2024/1922",
+        "title": "19:22 - Prix Macrine - Attele",
+        "details": "(5YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Cagnes-Sur-Mer/14-December-2024/1952",
+        "title": "19:52 - Prix Bold Eagle - Attele",
+        "details": "(6YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1507",
+        "title": "15:07 - De La Plage Handicap - AWT",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1542",
+        "title": "15:42 - Des Vagues Handicap - AWT",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1617",
+        "title": "16:17 - Du Front De Mer Handicap - AWT",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1652",
+        "title": "16:52 - Miss Satamixa Listed Stakes - AWT",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1727",
+        "title": "17:27 - De Moulines Handicap - AWT",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1802",
+        "title": "18:02 - Vodkato Stakes - AWT",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1834",
+        "title": "18:34 - De Putanges Claiming Stakes - AWT",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Deauville/14-December-2024/1906",
+        "title": "19:06 - Du Buste De Desire Le Hoc Stakes - AWT",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1030",
+        "title": "10:30 - Prix De Touraine - Attele",
+        "details": "(6YO to 9YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1100",
+        "title": "11:00 - Coupe Des 2 Ans - Attele",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1131",
+        "title": "11:31 - Prix De Marennes-oleron - Monte",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1203",
+        "title": "12:03 - Prix De Camaret - Attele",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1240",
+        "title": "12:40 - Prix Du Cotentin - Attele",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1315",
+        "title": "13:15 - Prix De Duclair - Attele",
+        "details": "(5YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1350",
+        "title": "13:50 - Prix De La Brenne - Attele",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Lyon-Parilly/14-December-2024/1432",
+        "title": "14:32 - Prix De Parilly - Attele",
+        "details": "(7YO to 10YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1223",
+        "title": "12:23 - Prix D'evrecy - Attele",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1258",
+        "title": "12:58 - Prix De La Chaise Dieu - Attele",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1333",
+        "title": "13:33 - Prix Emmanuel Margouty - Attele - Group 2",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1415",
+        "title": "14:15 - Prix De Caumont - Attele",
+        "details": "(6YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1450",
+        "title": "14:50 - Prix De Mansle - Attele - Group 3",
+        "details": "(6YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1525",
+        "title": "15:25 - Prix Michel Thoury - Attele",
+        "details": "(6YO to 9YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1600",
+        "title": "16:00 - Prix D'apt - Monte",
+        "details": "(7YO to 9YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1635",
+        "title": "16:35 - Prix Oscar Collard - Attele",
+        "details": "(7YO to 9YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Vincennes/14-December-2024/1710",
+        "title": "17:10 - Prix De Gisors - Monte",
+        "details": "(8YO to 10YO)"
+      }
+    ]
+  },
+  {
+    "racecardName": "Aqueduct (USA) Racecards",
+    "races": [
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1640",
+        "title": "16:40 - Race 1 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1710",
+        "title": "17:10 - Race 2 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1739",
+        "title": "17:39 - Race 3 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1808",
+        "title": "18:08 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1837",
+        "title": "18:37 - Race 5 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1907",
+        "title": "19:07 - Race 6 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/1936",
+        "title": "19:36 - Race 7 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/2006",
+        "title": "20:06 - Race 8 - New York Stallion Series Stakes",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/2035",
+        "title": "20:35 - Race 9 - New York Stallion Series Stakes",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Aqueduct/14-December-2024/2104",
+        "title": "21:04 - Race 10 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0000",
+        "title": "00:00 - Race 1 - Maiden Special Weight",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0032",
+        "title": "00:32 - Race 2 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0102",
+        "title": "01:02 - Race 3 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0132",
+        "title": "01:32 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0202",
+        "title": "02:02 - Race 5 - Maiden Claiming",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0232",
+        "title": "02:32 - Race 6 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0302",
+        "title": "03:02 - Race 7 - Maiden Special Weight",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0332",
+        "title": "03:32 - Race 8 - Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Charles-Town/15-December-2024/0402",
+        "title": "04:02 - Race 9 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/1845",
+        "title": "18:45 - Race 1 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/1915",
+        "title": "19:15 - Race 2 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/1945",
+        "title": "19:45 - Race 3 - Louisiana Champions Day Classic Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2015",
+        "title": "20:15 - Race 4 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2045",
+        "title": "20:45 - Race 5 - Louisiana Champions Day Lassie Stakes",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2115",
+        "title": "21:15 - Race 6 - Louisiana Champions Day Juvenile Stakes",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2145",
+        "title": "21:45 - Race 7 - Louisiana Champions Day Turf Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2215",
+        "title": "22:15 - Race 8 - Louisiana Champions Day Ladies Sprint Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2245",
+        "title": "22:45 - Race 9 - Louisiana Champions Day Ladies Turf Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Fair-Grounds/14-December-2024/2315",
+        "title": "23:15 - Race 10 - Louisiana Champions Day Sprint Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/1720",
+        "title": "17:20 - Race 1 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/1749",
+        "title": "17:49 - Race 2 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/1818",
+        "title": "18:18 - Race 3 - Maiden Optional Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/1849",
+        "title": "18:49 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/1919",
+        "title": "19:19 - Race 5 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/1949",
+        "title": "19:49 - Race 6 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/2018",
+        "title": "20:18 - Race 7 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/2053",
+        "title": "20:53 - Race 8 - Tropical Park Oaks",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/2121",
+        "title": "21:21 - Race 9 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/2151",
+        "title": "21:51 - Race 10 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Gulfstream/14-December-2024/2221",
+        "title": "22:21 - Race 11 - Tropical Park Derby",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/1725",
+        "title": "17:25 - Race 1 - Maiden Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/1753",
+        "title": "17:53 - Race 2 - Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/1820",
+        "title": "18:20 - Race 3 - Maiden Special Weight",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/1847",
+        "title": "18:47 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/1915",
+        "title": "19:15 - Race 5 - Starter Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/1943",
+        "title": "19:43 - Race 6 - Maiden Claiming",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/2012",
+        "title": "20:12 - Race 7 - Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/2041",
+        "title": "20:41 - Race 8 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Laurel-Park/14-December-2024/2111",
+        "title": "21:11 - Race 9 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2030",
+        "title": "20:30 - Race 1 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2059",
+        "title": "20:59 - Race 2 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2128",
+        "title": "21:28 - Race 3 - Starter Optional Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2157",
+        "title": "21:57 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2227",
+        "title": "22:27 - Race 5 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2256",
+        "title": "22:56 - Race 6 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2325",
+        "title": "23:25 - Race 7 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/14-December-2024/2354",
+        "title": "23:54 - Race 8 - Los Alamitos Futurity - Grade 2",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Los-Alamitos-Racecourse/15-December-2024/0023",
+        "title": "00:23 - Race 9 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/1830",
+        "title": "18:30 - Race 1 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/1858",
+        "title": "18:58 - Race 2 - Maiden Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/1926",
+        "title": "19:26 - Race 3 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/1954",
+        "title": "19:54 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/2022",
+        "title": "20:22 - Race 5 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/2050",
+        "title": "20:50 - Race 6 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/2118",
+        "title": "21:18 - Race 7 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/2146",
+        "title": "21:46 - Race 8 - Starter Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/2214",
+        "title": "22:14 - Race 9 - Mistletoe Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Oaklawn-Park/14-December-2024/2240",
+        "title": "22:40 - Race 10 - Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/1715",
+        "title": "17:15 - Race 1 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/1745",
+        "title": "17:45 - Race 2 - Ftboa Marion County Florida Sire Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/1814",
+        "title": "18:14 - Race 3 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/1843",
+        "title": "18:43 - Race 4 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/1913",
+        "title": "19:13 - Race 5 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/1943",
+        "title": "19:43 - Race 6 - Ftboa City Of Ocala Florida Sire Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/2013",
+        "title": "20:13 - Race 7 - Starter Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/2041",
+        "title": "20:41 - Race 8 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/2110",
+        "title": "21:10 - Race 9 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Tampa-Bay-Downs/14-December-2024/2140",
+        "title": "21:40 - Race 10 - Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/14-December-2024/2255",
+        "title": "22:55 - Race 1 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/14-December-2024/2325",
+        "title": "23:25 - Race 2 - Maiden Special Weight",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/14-December-2024/2355",
+        "title": "23:55 - Race 3 - Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/15-December-2024/0033",
+        "title": "00:33 - Race 4 - My Charmer Turfway Park Synthetic Championship Stakes Presented By Claiborne Farm",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/15-December-2024/0111",
+        "title": "01:11 - Race 5 - Holiday Inaugural Turfway Park Synthetic Championship S. Presented By Claiborne Farm",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/15-December-2024/0149",
+        "title": "01:49 - Race 6 - Prairie Bayou Turfway Park Synthetic Championship Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/15-December-2024/0227",
+        "title": "02:27 - Race 7 - Holiday Cheer Turfway Park Synthetic Championship Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/15-December-2024/0257",
+        "title": "02:57 - Race 8 - Allowance",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Turfway-Park/15-December-2024/0327",
+        "title": "03:27 - Race 9 - Maiden Special Weight",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/1810",
+        "title": "18:10 - Race 1 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/1845",
+        "title": "18:45 - Race 2 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/1917",
+        "title": "19:17 - Race 3 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/1947",
+        "title": "19:47 - Race 4 - Maiden Optional Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2017",
+        "title": "20:17 - Race 5 - Maiden Optional Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2047",
+        "title": "20:47 - Race 6 - Maiden Optional Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2117",
+        "title": "21:17 - Race 7 - Starter Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2147",
+        "title": "21:47 - Race 8 - Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2217",
+        "title": "22:17 - Race 9 - La Prevoyante Stakes",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2247",
+        "title": "22:47 - Race 10 - Allowance Optional Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Woodbine/14-December-2024/2317",
+        "title": "23:17 - Race 11 - Maiden Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/1805",
+        "title": "18:05 - Race 1 - Maiden Claiming",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/1835",
+        "title": "18:35 - Race 2 - Maiden Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/1905",
+        "title": "19:05 - Race 3 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/1933",
+        "title": "19:33 - Race 4 - Maiden Claiming",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2001",
+        "title": "20:01 - Race 5 - Maiden Claiming",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2029",
+        "title": "20:29 - Race 6 - Maiden Claiming",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2057",
+        "title": "20:57 - Race 7 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2125",
+        "title": "21:25 - Race 8 - Claiming",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2153",
+        "title": "21:53 - Race 9 - Allowance",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2221",
+        "title": "22:21 - Race 10 - Allowance",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2249",
+        "title": "22:49 - Race 11 - Allowance",
+        "details": "(3YO to 5YO)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Zia-Park/14-December-2024/2317",
+        "title": "23:17 - Race 12 - Allowance",
+        "details": "(3YO plus)"
+      }
+    ]
+  },
+  {
+    "racecardName": "San Isidro (Argentina) Racecards",
+    "races": [
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1500",
+        "title": "15:00 - Race 1 - Maiden",
+        "details": ""
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1530",
+        "title": "15:30 - Race 2 - Maiden",
+        "details": ""
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1600",
+        "title": "16:00 - Race 3 - Allowance",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1630",
+        "title": "16:30 - Race 4 - Maiden",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1700",
+        "title": "17:00 - Race 5 - Maiden",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1730",
+        "title": "17:30 - Race 6 - Allowance",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1800",
+        "title": "18:00 - Race 7 - Allowance",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1830",
+        "title": "18:30 - Race 8 - Allowance",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1900",
+        "title": "19:00 - Race 9 - Gran Premio Felix De Alzaga Unzue - Internacional G1 S",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/1935",
+        "title": "19:35 - Race 10 - Gran Premio Joaquin De Anchorena - Internacional G1 - Copa Sancor Seguros S",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2010",
+        "title": "20:10 - Race 11 - Allowance",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2045",
+        "title": "20:45 - Race 12 - Gran Premio Copa De Plata - Roberto Vasquez Mansilla - Internacional G1 S",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2115",
+        "title": "21:15 - Race 13 - Allowance",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2200",
+        "title": "22:00 - Race 14 - Gran Premio Carlos Pellegrini - Internacional G1 S",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2240",
+        "title": "22:40 - Race 15 - Maiden",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2310",
+        "title": "23:10 - Race 16 - Maiden",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/14-December-2024/2340",
+        "title": "23:40 - Race 17 - Maiden",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/San-Isidro/15-December-2024/0010",
+        "title": "00:10 - Race 18 - Allowance",
+        "details": "(4YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1020",
+        "title": "10:20 - Pragmatic Commonwealth Plate",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1055",
+        "title": "10:55 - Flash Summer Coronation Plate (Fillies)",
+        "details": "(2YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1130",
+        "title": "11:30 - Ozow Maiden Plate (F & M)",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1205",
+        "title": "12:05 - SplashOut Victress Stakes (Grade 3) (Fillies & Mares)",
+        "details": "(4YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1245",
+        "title": "12:45 - Evolution Maiden Plate",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1320",
+        "title": "13:20 - Stitch Class 3",
+        "details": "(Class 3) (3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1355",
+        "title": "13:55 - Hollywoodbets Cape Guineas (Grade 1) (3-Year-Olds)",
+        "details": "(3YO only)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1430",
+        "title": "14:30 - Ridgemont Peninsula Handicap (Grade 3)",
+        "details": "(3YO plus)"
+      },
+      {
+        "link": "https://www.attheraces.com/racecard/Kenilworth/14-December-2024/1505",
+        "title": "15:05 - Light And Wonder Class 4",
+        "details": "(Class 4) (3YO plus)"
+      }
+    ]
+  }
+]

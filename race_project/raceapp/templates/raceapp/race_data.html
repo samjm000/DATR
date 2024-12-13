@@ -1,0 +1,15 @@
+<!-- raceapp/templates/raceapp/race_data.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Race Data</title>
+  </head>
+  <body>
+    <h1>Race Data</h1>
+    <ul>
+      {% for race in race_data %}
+      <li>{{ race.title }} - {{ race.time }}</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>
