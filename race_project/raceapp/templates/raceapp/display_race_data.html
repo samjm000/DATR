@@ -1,0 +1,52 @@
+<!-- raceapp/templates/raceapp/display_race_data.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Race Data</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="my-4">Race Data</h1>
+      {% for racecard in racecards %}
+      <div class="card mb-4">
+        <div class="card-header">
+          <h2>{{ racecard.name }}</h2>
+        </div>
+        <div class="card-body">
+          {% for race in racecard.races.all %}
+          <h4>{{ race.title }}</h4>
+          <p>{{ race.details }}</p>
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Horse Name</th>
+                <th>Sire</th>
+                <th>Dam</th>
+                <th>Dam's Sire</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for horse in race.horses.all %}
+              <tr>
+                <td>{{ horse.name }}</td>
+                <td>{{ horse.sire }}</td>
+                <td>{{ horse.dam }}</td>
+                <td>{{ horse.dams_sire }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </body>
+</html>

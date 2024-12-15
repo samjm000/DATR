@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Scrape Race Data</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="my-4">Welcome to the Race Data Scraper</h1>
+      <button id="startScraper" class="btn btn-primary btn-lg">
+        Start Scraping
+      </button>
+      <div id="progress" class="my-4" style="display: none">
+        <h4>Scraping Progress</h4>
+        <div class="progress">
+          <div
+            id="progressBar"
+            class="progress-bar progress-bar-striped progress-bar-animated"
+            role="progressbar"
+            style="width: 0%"
+            aria-valuenow="0"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          ></div>
+        </div>
+        <pre id="logOutput" class="mt-3"></pre>
+      </div>
+    </div>
+    <script>
+      document
+        .getElementById("startScraper")
+        .addEventListener("click", async () => {
+          document.getElementById("progress").style.display = "block";
+          const progressBar = document.getElementById("progressBar");
+          const logOutput = document.getElementById("logOutput");
+
+          const updateProgress = (status) => {
+            progressBar.style.width = `${status.progress}%`;
+            progressBar.innerText = `${status.progress}%`;
+            logOutput.innerText += `${status.message}\n`;
+          };
+
+          const response = await fetch("/raceapp/run_scraper/");
+          const reader = response.body.getReader();
+          let decoder = new TextDecoder();
+          let done = false;
+
+          while (!done) {
+            const { value, done: doneReading } = await reader.read();
+            done = doneReading;
+            const chunk = decoder.decode(value);
+            const status = JSON.parse(chunk);
+            updateProgress(status);
+          }
+
+          window.location.href = "/raceapp/display_race_data/";
+        });
+    </script>
+  </body>
+</html>

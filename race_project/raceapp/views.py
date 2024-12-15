@@ -1,33 +1,74 @@
+# raceapp/views.py
+
 import subprocess
 import json
-from django.shortcuts import render
-from django.http import JsonResponse
 import os
+import time
+from django.shortcuts import render, redirect
+from django.http import JsonResponse
+from .models import Racecard, Race, Horse
+from .tasks import scrape_and_save_data
+
+
+def home(request):
+    return render(request, "raceapp/home.html")
 
 
 def run_scraper(request):
-    try:
-        # Run the Puppeteer script
-        subprocess.run(["node", "raceapp/scraping/scrape_races.js"], check=True)
+    if request.method == "GET":
+        task = scrape_and_save_data.apply_async()  # Start the Celery task
+        return render(request, "raceapp/loading.html", {"task_id": task.id})
 
-        # Define the path to the JSON file
-        json_file_path = os.path.join("raceapp", "scraping", "race_data.json")
 
-        # Check if the JSON file exists
-        if not os.path.exists(json_file_path):
-            return JsonResponse(
-                {
-                    "status": "error",
-                    "error": "File not found: {}".format(json_file_path),
-                }
+def get_progress(request, task_id):
+    task = scrape_and_save_data.AsyncResult(task_id)
+    if task.state == "PENDING":
+        response = {"state": task.state, "progress": 0, "status": "Pending..."}
+    elif task.state != "FAILURE":
+        response = {
+            "state": task.state,
+            "progress": 100 if task.state == "SUCCESS" else 50,
+            "status": str(task.info),
+        }
+        if "result" in task.info:
+            response["result"] = task.info["result"]
+    else:
+        response = {
+            "state": task.state,
+            "progress": 0,
+            "status": str(task.info),  # This is the exception raised
+        }
+    return JsonResponse(response)
+
+
+def save_race_data(request, data=None):
+    if request.method == "POST" or data:
+        if not data:
+            data = json.loads(request.body)
+        for racecard_data in data:
+            racecard, created = Racecard.objects.get_or_create(
+                name=racecard_data["racecardName"]
             )
+            for race_data in racecard_data["races"]:
+                race, created = Race.objects.get_or_create(
+                    racecard=racecard,
+                    link=race_data["link"],
+                    title=race_data["title"],
+                    details=race_data["details"],
+                )
+                for horse_data in race_data["horses"]:
+                    Horse.objects.get_or_create(
+                        race=race,
+                        name=horse_data["name"],
+                        link=horse_data["link"],
+                        sire=horse_data.get("sire", ""),
+                        dam=horse_data.get("dam", ""),
+                        dams_sire=horse_data.get("damsSire", ""),
+                    )
+        return JsonResponse({"status": "success"})
+    return JsonResponse({"status": "failed"}, status=400)
 
-        # Read the data from the JSON file
-        with open(json_file_path, "r") as file:
-            race_data = json.load(file)
 
-        return render(request, "raceapp/race_data.html", {"race_data": race_data})
-    except subprocess.CalledProcessError as e:
-        return JsonResponse({"status": "error", "error": str(e)})
-    except FileNotFoundError as e:
-        return JsonResponse({"status": "error", "error": str(e)})
+def display_race_data(request):
+    racecards = Racecard.objects.all().prefetch_related("races__horses")
+    return render(request, "raceapp/display_race_data.html", {"racecards": racecards})
