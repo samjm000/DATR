@@ -14,9 +14,57 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
     />
     <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    <style>
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+        font-family: "Roboto", sans-serif;
+      }
+      .video-background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+        z-index: -1;
+      }
+      .content-wrapper {
+        position: relative;
+        z-index: 1;
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 8px;
+        margin-top: 50px;
+      }
+      .navbar-custom {
+        background-color: rgba(0, 0, 0, 0.7);
+        color: white;
+        padding: 10px 0;
+      }
+      .navbar-custom .navbar-brand,
+      .navbar-custom .nav-link {
+        color: white;
+      }
+      .video-overlay {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        text-align: center;
+      }
+      .video-overlay h1 {
+        font-size: 4em;
+      }
+      .video-overlay p {
+        font-size: 1.5em;
+      }
+    </style>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-custom navbar-expand-lg">
       <a class="navbar-brand" href="#">Day at the Races</a>
       <button
         class="navbar-toggler"
@@ -44,31 +92,32 @@
       </div>
     </nav>
 
-    <div class="hero text-center">
-      <div class="container">
-        <h1>Welcome to Day at the Races</h1>
-        <p class="lead">Effortlessly scrape and analyze race data.</p>
-        {% if user.is_authenticated %}
-        <form action="{% url 'run_scraper' %}" method="post">
-          {% csrf_token %}
-          <button type="submit" class="btn btn-primary btn-lg">
-            Start Scraping
-          </button>
-        </form>
-        {% else %}
-        <p class="lead">
-          Please
-          <a href="{% url 'login' %}" class="text-white font-weight-bold"
-            >login</a
-          >
-          to start scraping.
-        </p>
-        {% endif %}
-      </div>
+    <video autoplay muted loop class="video-background">
+      <source src="{% static 'videos/horse_race.mp4' %}" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+
+    <div class="video-overlay">
+      <h1>Welcome to Day at the Races</h1>
+      <p>Effortlessly build systems and analyze race data</p>
+      {% if user.is_authenticated %}
+      <form action="{% url 'run_scraper' %}" method="post">
+        {% csrf_token %}
+        <button type="submit" class="btn btn-primary btn-lg">Start Here</button>
+      </form>
+      {% else %}
+      <p class="lead">
+        Please
+        <a href="{% url 'login' %}" class="text-white font-weight-bold"
+          >login</a
+        >
+        to start Winning.
+      </p>
+      {% endif %}
     </div>
 
-    <div class="content text-center">
-      <div class="container">
+    <div class="container content-wrapper mt-5">
+      <div class="text-center">
         <h2>Why Use Day at the Races?</h2>
         <p>
           Day at the Races allows you to easily gather and analyze race data,

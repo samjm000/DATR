@@ -13,6 +13,11 @@ from django.contrib.auth import authenticate, login
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 
 
+from django.shortcuts import render, redirect
+from django.contrib.auth import authenticate, login
+from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
+
+
 def login_view(request):
     if request.method == "POST":
         form = AuthenticationForm(data=request.POST)
@@ -23,6 +28,9 @@ def login_view(request):
     else:
         form = AuthenticationForm()
     return render(request, "registration/login.html", {"form": form})
+
+
+# Other views remain unchanged (home, run_scraper, save_race_data, display_race_data, get_progress)
 
 
 def register_view(request):

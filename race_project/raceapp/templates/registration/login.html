@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login / Register</title>
+    <title>Sign In / Sign Up</title>
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
@@ -14,9 +14,37 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
     />
     <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    <style>
+      body {
+        font-family: "Roboto", sans-serif;
+        background-color: #f8f9fa;
+      }
+      .form-container {
+        margin-top: 50px;
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .form-heading {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .hidden {
+        display: none;
+      }
+      .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+      }
+      .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+      }
+    </style>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#">Day at the Races</a>
       <button
         class="navbar-toggler"
@@ -44,29 +72,78 @@
       </div>
     </nav>
 
-    <div class="container mt-5">
-      <div class="row">
-        <div class="col-md-6">
-          <h1 class="text-center">Login</h1>
-          <form method="post" action="{% url 'login' %}">
-            {% csrf_token %}
-            <div class="form-group">{{ form.as_p }}</div>
-            <button type="submit" class="btn btn-primary btn-lg btn-block">
-              Login
-            </button>
-          </form>
+    <div class="container form-container">
+      <h1 class="form-heading">Sign In / Sign Up</h1>
+      <form id="sign-in-form" method="post" action="{% url 'login' %}">
+        {% csrf_token %}
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input
+            type="email"
+            class="form-control"
+            id="email"
+            name="email"
+            required
+          />
         </div>
-        <div class="col-md-6">
-          <h1 class="text-center">Register</h1>
-          <form method="post" action="{% url 'register' %}">
-            {% csrf_token %}
-            <div class="form-group">{{ form.as_p }}</div>
-            <button type="submit" class="btn btn-primary btn-lg btn-block">
-              Register
-            </button>
-          </form>
+        <div id="password-section" class="hidden">
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+              type="password"
+              class="form-control"
+              id="password"
+              name="password"
+            />
+          </div>
+          <button type="submit" class="btn btn-primary btn-lg btn-block">
+            Sign In
+          </button>
         </div>
-      </div>
+        <div id="register-section" class="hidden">
+          <div class="form-group">
+            <label for="password1">Password</label>
+            <input
+              type="password"
+              class="form-control"
+              id="password1"
+              name="password1"
+            />
+          </div>
+          <div class="form-group">
+            <label for="password2">Confirm Password</label>
+            <input
+              type="password"
+              class="form-control"
+              id="password2"
+              name="password2"
+            />
+          </div>
+          <button type="submit" class="btn btn-primary btn-lg btn-block">
+            Sign Up
+          </button>
+        </div>
+      </form>
     </div>
+
+    <script>
+      document.getElementById("email").addEventListener("blur", function () {
+        const email = this.value;
+        // Placeholder for AJAX call to check if email exists
+        const emailExists = false; // Change based on real check
+
+        if (emailExists) {
+          document
+            .getElementById("password-section")
+            .classList.remove("hidden");
+          document.getElementById("register-section").classList.add("hidden");
+        } else {
+          document
+            .getElementById("register-section")
+            .classList.remove("hidden");
+          document.getElementById("password-section").classList.add("hidden");
+        }
+      });
+    </script>
   </body>
 </html>
