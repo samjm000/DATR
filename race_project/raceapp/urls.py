@@ -20,3 +20,15 @@ urlpatterns = [
         "logout/", auth_views.LogoutView.as_view(next_page="logged_out"), name="logout"
     ),  # Use Django's LogoutView
 ]
+
+from django.urls import path
+from .views import home, login_view
+from django.contrib.auth import views as auth_views
+from django.views.generic import TemplateView
+
+urlpatterns = [
+    path("", home, name="home"),
+    path('login/', login_view, name='login'),
+    path('logout/', auth_views.LogoutView.as_view(next_page='logged_out'), name='logout'),
+    path('logged_out/', TemplateView.as_view(template_name='registration/logged_out.html'), name='logged_out'),
+]

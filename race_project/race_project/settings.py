@@ -60,8 +60,8 @@ TEMPLATES = [
         "BACKEND": "django.template.backends.django.DjangoTemplates",
         "DIRS": [
             os.path.join(BASE_DIR, "raceapp", "templates")
-        ],  # Explicitly add templates directory
-        "APP_DIRS": True,  # This should be True to include app templates
+        ],  
+        "APP_DIRS": True,  
         "OPTIONS": {
             "context_processors": [
                 "django.template.context_processors.debug",

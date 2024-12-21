@@ -1,9 +1,5 @@
 # raceapp/views.py
-
-import subprocess
 import json
-import os
-import time
 from django.shortcuts import render, redirect
 from django.http import JsonResponse
 from .models import Racecard, Race, Horse
@@ -11,22 +7,6 @@ from .tasks import scrape_and_save_data
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
-
-
-from django.shortcuts import render, redirect
-from django.contrib.auth import authenticate, login
-from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
-
-
-from django.shortcuts import render, redirect
-from django.contrib.auth import authenticate, login
-from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
-from django.contrib.auth.models import User
-
-
-from django.shortcuts import render, redirect
-from django.contrib.auth import authenticate, login
-from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
 from django.contrib.auth.models import User
 
 
@@ -76,13 +56,13 @@ def login_view(request):
 
 
 def home(request):
-    return render(request, "raceapp/home.html")
+    return render(request, "home.html")
 
 
 def run_scraper(request):
     if request.method == "GET":
         task = scrape_and_save_data.apply_async()  # Start the Celery task
-        return render(request, "raceapp/loading.html", {"task_id": task.id})
+        return render(request, "loading.html", {"task_id": task.id})
 
 
 def get_progress(request, task_id):
